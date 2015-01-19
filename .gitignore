@@ -1,6 +1,8 @@
 *
-!*/
-!src/doc/*
 !.gitignore
+!LICENSE-APACHE
+!LICENSE-MIT
+!README.md
+!RELEASES.md
+!src/doc/*
 !book/*
-!*.md
